@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: Frontend Engineering<br>💬 Ask me about: mobile phones, tech, coding etc...<br>⚡ Fun fact: I love entrepreneurship 
+🌱 I’m currently learning: Fullstack Software Engineering<br>💬 Ask me about: mobile phones, tech, coding etc...<br>⚡ Fun fact: I love entrepreneurship 
 
 
 ## 🌐 Socials:
