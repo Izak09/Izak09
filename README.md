@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi I'm Izak Podlesek!
 - 🌱 I’m currently learning **Fullstack Software Engineering** on Coursera.
 - 💬 Feel free to ask me about **mobile phones, tech trends, coding, and development**.
 - ⚡ **Fun fact:** I'm passionate about entrepreneurship and have a strong interest in building innovative tech solutions.
