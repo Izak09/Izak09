@@ -1,5 +1,6 @@
-<h1 align="center">Hello, I'm Izak</h1>
-<h3 align="center">I'm a first year student at S3R5 Maribor. My primary interests are AI/ML Development, Robotics💻 and Cybersecurity🛡️</h3>
+<h1 align="center">IZAK PODLESEK</h1>
+<h2 align="center">🇸🇮</h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izak09&label=Profile%20views&color=0e75b6&style=flat" alt="izak09" /> </p>
 
