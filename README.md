@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🛠️ **SKILLS**
 <p align="center">
   <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript"/></a>
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 **GitHub Stats & Activity**
+### 📊 **ACTIVITY**
 <p align="center">
   <a href="http://www.github.com/Izak09"><img src="https://github-readme-stats.vercel.app/api?username=Izak09&show_icons=true&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ffffff&bg_color=171717&hide_border=true" alt="Izak09's GitHub stats" /></a>
   <a href="https://github.com/Izak09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Izak09&stroke=ffffff&background=171717&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=ffffff&hide_border=true" /></a>
@@ -36,7 +36,7 @@
 
 ---
 
-### 📈 **Commit Graph**
+### 📈 **COMMITS**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Izak09&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
