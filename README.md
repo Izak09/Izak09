@@ -1,16 +1,86 @@
-<h1 align="center">IZAK PODLESEK</h1>
-<h4 align="center">I'm a first year student of High School of Computer Science (SERŠ). My primary interests are AI Development, Cybersecurity, Data Structures and Algorithms and Software Engineering</h4>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izak09&label=Profile%20views&color=0e75b6&style=flat" alt="izak09" /> </p>
-
-<h3 align="left">Contact:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/izak-podlesek-537495300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izak podlesek" height="30" width="40" /></a>
-<a href="https://www.instagram.com/izakpodlesek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pod" height="30" width="40" /></a>
+<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Izak</h1>
+<p align="center">
+  <b>Aspiring AI Developer | Cybersecurity Enthusiast | Software Engineer</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.github.com/Izak09">
+    <img src="https://img.shields.io/github/followers/Izak09?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izak09&show_icons=true&locale=en&layout=compact" alt="izak09" /></p>
+---
+
+## 🚀 About Me  
+- 🎓 First-year student at **High School of Computer Science (SERŠ)**
+- 🤖 Passionate about **AI Development, Cybersecurity, DSA, and Software Engineering**
+- 🌱 Learning **C++, Python, Java, React, and more**
+- 🏗️ Working on **multiple real-world projects**  
+
+---
+
+## 🛠️ Skills  
+<p align="center">
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" alt="Java"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" alt="Python"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" alt="JavaScript"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" alt="React"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="50" alt="Git"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="50" alt="Linux"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="50" alt="Arduino"/>
+  </a>
+  <a href="https://www.apple.com/macos/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="50" alt="macOS"/>
+  </a>
+</p>
+
+---
+
+## 🌍 Connect with Me  
+<p align="left">
+  <a href="https://github.com/Izak09">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-here">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <a href="https://github.com/Izak09">
+    <img src="https://github-readme-stats.vercel.app/api?username=Izak09&show_icons=true&hide=issues&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ffffff&bg_color=171717&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Izak09">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izak09&langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" />
+  </a>
+</p>
+
+---
+
+## 📌 Top Repositories  
+<p align="center">
+  <a href="https://github.com/Izak09/real-time-graph-measuring-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Izak09&repo=real-time-graph-measuring-system&title_color=ffffff&text_color=ef4444&icon_color=ffffff&bg_color=171717&hide_border=true&locale=en" />
+  </a>
+</p>
+
+
+
