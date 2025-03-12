@@ -1,5 +1,5 @@
 <h1 align="center">IZAK PODLESEK</h1>
-<h2 align="center">I'm a first year student of High School of Computer Science (SERŠ). My primary interests are AI Development, Cybersecurity, Data Structures and Algorithms and Software Engineering</h2>
+<h4 align="center">I'm a first year student of High School of Computer Science (SERŠ). My primary interests are AI Development, Cybersecurity, Data Structures and Algorithms and Software Engineering</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izak09&label=Profile%20views&color=0e75b6&style=flat" alt="izak09" /> </p>
